@@ -125,3 +125,7 @@ p{
     transition: 0.5s;
   }
 
+  .boton{
+    text-align: right;
+    margin-right: 1px;
+  }

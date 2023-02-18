@@ -1,2 +1,0 @@
-# pagina
-todo mal

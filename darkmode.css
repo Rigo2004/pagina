@@ -1,15 +1,41 @@
-body.dark{
+body.dark {
     background-color: #1E1E1E;
 }
 
-body.dark header h1{
-    filter: invert(1);
+body.dark button {
+    background-color: #1E1E1E;
+    color: #fff;
 }
 
-body.dark #darkmode{
+body.dark header h1 {
+    filter: invert(1);
+    -webkit-filter: invert(1);
+}
+
+body.dark section h2 {
+    filter: invert(1);
+    -webkit-filter: invert(1);
+}
+
+body.dark #darkmode {
     background-position: right center;
 }
 
-body.dark #buscador input{
-    background-color: white;
+body.dark nav li {
+    filter: invert(1);
+    -webkit-filter: invert(1);
+}
+
+body.dark section {
+    filter: invert(1);
+    -webkit-filter: invert(1);
+}
+
+body.dark section h2 {
+    color: aliceblue;
+}
+
+body.dark img {
+    filter: invert(1);
+    -webkit-filter: invert(1);
 }
